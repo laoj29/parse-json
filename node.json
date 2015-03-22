@@ -1,0 +1,68 @@
+{
+    "node_id": "1",
+    "type": "Auto",
+    "children": [
+        {
+            "node_id": "20",
+            "type": "Auto",
+            "children": [
+                {}
+            ]
+        },
+        {
+            "node_id": "21",
+            "type": "Auto",
+            "children": [
+                {
+                    "node_id": "211",
+                    "type": "Auto",
+                    "children": [
+                        {}
+                    ]
+                },
+                {
+                    "node_id": "223",
+                    "type": "Manual",
+                    "children": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "node_id": "22",
+            "type": "Auto",
+            "children": [
+                {}
+            ]
+        },
+        {
+            "node_id": "23",
+            "type": "Auto",
+            "children": [
+                {}
+            ]
+        },
+        {
+            "node_id": "24",
+            "type": "Manual",
+            "children": [
+                {}
+            ]
+        },
+        {
+            "node_id": "25",
+            "type": "Auto",
+            "children": [
+                {}
+            ]
+        },
+        {
+            "node_id": "26",
+            "type": "Auto",
+            "children": [
+                {}
+            ]
+        }
+    ]
+}
